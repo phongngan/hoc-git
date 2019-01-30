@@ -1,0 +1,12 @@
+﻿// đây là comment
+// mọi tên file,folder trong file này đều sẽ bị bỏ theo dõi
+// bò theo dõi tên file readme.txt
+readme.txt
+// bỏ theo dõi file myconfig.txt
+myconfig.txt
+// bỏ theo dõi thư mục libs
+libs/
+//bỏ theo dõi thư mục node config
+/node config
+// bỏ theo dõi tât cả các file m.....txt
+m*.txt
